@@ -81,3 +81,5 @@ Explainable AI - Feature importance visualization
 
 **📓 Full ML Pipeline**  
 [Fraud Detection Notebook](Fraud_detection.ipynb)
+
+**Built by Prashansa Choubey** | 📍 Pune, India
